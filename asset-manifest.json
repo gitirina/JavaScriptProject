@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JavaScriptProject/static/css/main.96509b55.css",
+    "main.js": "/JavaScriptProject/static/js/main.8495e02b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/JavaScriptProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner-new.jpeg": "/JavaScriptProject/static/media/banner-new.cc7fee9ed3c6d16c233a.jpeg",
+    "index.html": "/JavaScriptProject/index.html",
+    "main.96509b55.css.map": "/JavaScriptProject/static/css/main.96509b55.css.map",
+    "main.8495e02b.js.map": "/JavaScriptProject/static/js/main.8495e02b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/JavaScriptProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96509b55.css",
+    "static/js/main.8495e02b.js"
+  ]
+}
